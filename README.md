@@ -33,7 +33,7 @@
   "workbench.startupEditor": "none",
   "workbench.iconTheme": "symbols",
   "editor.tabSize": 2,
-  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.colorTheme": "One Dark Pro Flat",
   "javascript.preferences.quoteStyle": "single",
   "typescript.preferences.quoteStyle": "single",
   "workbench.productIconTheme": "fluent-icons",
@@ -41,8 +41,8 @@
   "editor.codeActionsOnSave": {
     "source.fixAll": true
   },
-  "oneDarkPro.vivid": true,
   "editor.indentSize": "tabSize",
-  "editor.cursorBlinking": "expand"
+  "editor.cursorBlinking": "expand",
+  "oneDarkPro.vivid": true,
 }
 ```
