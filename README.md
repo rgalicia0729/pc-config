@@ -43,6 +43,5 @@
   },
   "editor.indentSize": "tabSize",
   "editor.cursorBlinking": "expand",
-  "oneDarkPro.vivid": true,
 }
 ```
