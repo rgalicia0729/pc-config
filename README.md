@@ -43,5 +43,8 @@
   },
   "editor.indentSize": "tabSize",
   "editor.cursorBlinking": "expand",
+  "breadcrumbs.enabled": false,
+  "oneDarkPro.vivid": true,
+  "oneDarkPro.bold": true,
 }
 ```
