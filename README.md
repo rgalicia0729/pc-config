@@ -2,7 +2,10 @@
 
 ## Extensions
 
-- One Dark Pro
+- Angular Language Service
+- Better Comments
+- EditorConfig for VS Code
+- Error Lens
 - Fluent Icons
 - Symbols
 - ESLint
