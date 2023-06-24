@@ -21,7 +21,7 @@
 {
   "editor.renderWhitespace": "none",
   "editor.formatOnSave": true,
-  "editor.fontFamily": "'Cascadia Code PL', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontFamily": "'Cascadia Code', Menlo, Monaco, 'Courier New', monospace",
   "editor.fontSize": 13,
   "editor.inlineSuggest.enabled": true,
   "editor.fontLigatures": true,
@@ -33,7 +33,6 @@
   "workbench.startupEditor": "none",
   "workbench.iconTheme": "symbols",
   "editor.tabSize": 2,
-  "workbench.colorTheme": "One Dark Pro Flat",
   "javascript.preferences.quoteStyle": "single",
   "typescript.preferences.quoteStyle": "single",
   "workbench.productIconTheme": "fluent-icons",
@@ -44,7 +43,8 @@
   "editor.indentSize": "tabSize",
   "editor.cursorBlinking": "expand",
   "breadcrumbs.enabled": false,
-  "oneDarkPro.vivid": true,
-  "oneDarkPro.bold": true,
+  "git.autofetch": true,
+  "editor.bracketPairColorization.enabled": false,
+  "editor.linkedEditing": true,
 }
 ```
