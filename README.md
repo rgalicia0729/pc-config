@@ -2,6 +2,7 @@
 
 ## Extensions
 
+- One Dark Pro
 - Angular Language Service
 - Better Comments
 - EditorConfig for VS Code
@@ -49,5 +50,8 @@
   "git.autofetch": true,
   "editor.bracketPairColorization.enabled": false,
   "editor.linkedEditing": true,
+  "workbench.colorTheme": "One Dark Pro Flat",
+  "oneDarkPro.bold": true,
+  "oneDarkPro.vivid": true,
 }
 ```
