@@ -42,16 +42,15 @@
   "workbench.productIconTheme": "fluent-icons",
   "symbols.hidesExplorerArrows": false,
   "editor.codeActionsOnSave": {
+  
     "source.fixAll": true
   },
   "editor.indentSize": "tabSize",
   "editor.cursorBlinking": "expand",
   "breadcrumbs.enabled": false,
   "git.autofetch": true,
-  "editor.bracketPairColorization.enabled": false,
   "editor.linkedEditing": true,
-  "workbench.colorTheme": "One Dark Pro Flat",
   "oneDarkPro.bold": true,
-  "oneDarkPro.vivid": true,
+  "workbench.colorTheme": "One Dark Pro Flat",
 }
 ```
